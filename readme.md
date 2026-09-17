@@ -53,23 +53,6 @@ cd /d "c:\Users\Asus\Desktop\Tests AGAI" && python server.py
 
 ---
 
-## 💻 Local Quick Start
-
-### Option 1: Run with Python Server (Recommended)
-```bash
-python server.py
-```
-This automatically binds to port **`3090`** (or the next available port) and opens `http://localhost:3090/index.html` in your browser.
-
-> **One-liner for Windows CMD**:
-> ```cmd
-> python -m http.server 3090
-> ```
-
----
-
-
----
 
 ## ⌨️ Keyboard Shortcuts
 
