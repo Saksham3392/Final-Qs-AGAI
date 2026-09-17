@@ -1,11 +1,8 @@
-# 🧠 AI & Deep Learning Systems Coding Arena
-
-An interactive, in-browser coding platform and Python execution playground featuring foundational Deep Learning, Neural Network, and Machine Learning algorithm challenges.
+# 🧠 AGAI final changes of questions of EndTerm
 
 ---
 
-### 🌐 Live Interactive Demo
-Experience the platform in action directly in your browser without local setup:  
+### 🌐 Links
 👉 https://final-qs-agai.onrender.com/
 
 👉https://final-qs-agai.vercel.app/
