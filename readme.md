@@ -8,7 +8,7 @@ An interactive, in-browser coding platform and Python execution playground featu
 Experience the platform in action directly in your browser without local setup:  
 👉 **https://mock-tests-agai.onrender.com**
 
-👉**https://mock-tests-agai.vercel.app/**
+👉**[https://mock-tests-agai.vercel.app/](https://final-qs-agai.vercel.app/)**
 
 And to view in localhost offline
 ```cmd
