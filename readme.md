@@ -12,7 +12,7 @@ Experience the platform in action directly in your browser without local setup:
 
 And to view in localhost offline
 ```cmd
-cd /d "c:\Users\Asus\Desktop\Tests AGAI" && python server.py
+cd /d "c:\Users\Asus\Downloads\Tests AGAI" && python server.py
 ```
 
 ---
