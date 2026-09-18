@@ -9,7 +9,7 @@
 
 And to view in localhost offline
 ```cmd
-cd /d "c:\Users\Asus\Downloads\Tests AGAI" && python server.py
+cd /d "C:\Users\Asus\Downloads\CSE AI 5th Sem\AGAI\Tests AGAI" && python server.py
 ```
 
 ---
